@@ -17,5 +17,3 @@ if ($userName !== '') {
 }
 
 header('Location: index.php');
-
-exit;
